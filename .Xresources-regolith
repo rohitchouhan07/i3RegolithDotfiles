@@ -1,0 +1,10 @@
+#include "/etc/regolith/styles/lascaille/root"
+i3-wm.bar.position: top
+gnome.gtk.theme: Nordic
+gnome.icon.theme: Arc
+rofi.icon-theme: Arc
+gnome.wallpaper: ~/Pictures/Wallpapers/wall.jpg
+i3-wm.workspace.01.name: 1:<span font_desc="JetBrains Mono Medium 13">1:</span>
+i3-wm.workspace.02.name: 2:<span font_desc="JetBrains Mono Medium 13">2:</span>
+i3-wm.workspace.03.name: 3:<span font_desc="JetBrains Mono Medium 13">3:</span>
+i3-wm.workspace.04.name: 4:<span font_desc="JetBrains Mono Medium 13">4:</span>
